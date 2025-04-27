@@ -15,5 +15,9 @@
     "mocha": "9.0.3",
     "zombie": "6.1.4"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "tests"
+  },
+  "author": ""
 }
